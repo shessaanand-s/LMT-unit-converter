@@ -8,7 +8,7 @@ This is a simple but useful Python program I built to convert between units of *
 
 I was learning Python and wanted to build something practical. Most unit converters are web-based or full GUI. I challenged myself to do it CLI interfaced like 100mm, 293.45kg, or 98.2F.
 
-###This project gave me good practice with:
+### This project gave me good practice with:
 1) Working with conditional logic
 2) Writing modular functions
 3) Error handling
